@@ -1,0 +1,6 @@
+segment_label,customers,avg_recency,avg_frequency,avg_order_value,total_clv_12m,avg_clv_12m,pct_of_customers,pct_of_clv
+Champions,491,32.09,16.52,136.88,231391.09,471.26,19.6,66.2
+Loyal,653,124.09,8.72,98.76,71844.22,110.02,26.1,20.6
+Potential Loyalists,342,39.49,6.18,74.98,30252.42,88.46,13.7,8.7
+At Risk,605,169.93,4.76,50.55,13888.4,22.96,24.2,4.0
+Low Value,409,279.9,1.98,46.31,2099.88,5.13,16.4,0.6

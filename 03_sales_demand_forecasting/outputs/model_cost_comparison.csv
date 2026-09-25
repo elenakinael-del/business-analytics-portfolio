@@ -1,0 +1,4 @@
+model,mape_pct,overstock_cost,stockout_cost,total_inventory_cost
+Holt-Winters,12.81,6063.0,3780.0,9843.0
+SARIMA,5.88,964.0,24264.0,25228.0
+Naive,10.14,2655.0,27244.0,29899.0
