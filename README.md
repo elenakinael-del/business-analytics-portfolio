@@ -1,10 +1,10 @@
-# Business Analytics Portfolio — Elena
+# Business Analytics Portfolio 
 
 Quantitative research and business analytics case studies focused on one thing: **turning data into decisions that move revenue, cost, or risk.**
 
-Each project follows the same structure — a real business question, a transparent method (no black boxes), a chart you can read in 10 seconds, and a dollar-denominated recommendation. Every script runs end-to-end and regenerates its own data, analysis, and charts from scratch.
+Each project follows the same structure, a real business question, a transparent method (no black boxes), a chart you can read in 10 seconds, and a dollar denominated recommendation. Every script runs end-to-end and regenerates its own data, analysis, and charts from scratch.
 
-> **Note on data:** the datasets are synthetically generated with realistic statistical structure (documented in each script's data generator) rather than pulled from a live business, since this is a public portfolio. The methods, models, and business logic are exactly what I'd apply to real transaction/CRM/marketing data — swap in a real dataset with matching columns and the pipeline runs unchanged.
+> **Note on data:** the datasets are synthetically generated with realistic statistical structure (documented in each script's data generator) rather than pulled from a live business, since this is a public portfolio. The methods, models, and business logic are exactly what I'd apply to real transaction/CRM/marketing data, swap in a real dataset with matching columns and the pipeline runs unchanged.
 
 ## Projects
 
